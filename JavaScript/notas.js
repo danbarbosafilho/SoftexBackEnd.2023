@@ -19,4 +19,4 @@ function result2(a, b) {
 
 let diferenca = result2(nota1, nota2)
 
-console.log(`Você precisa de ${diferenca} pontos na 3ª nota para alcançar a média mínima de 7.`)
+console.log(`Você precisa pontuar ${diferenca} na 3ª nota para alcançar a média mínima de 7.`)
